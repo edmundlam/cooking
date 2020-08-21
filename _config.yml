@@ -4,6 +4,7 @@ collections:
   recipes:
     output: true
 
+baseurl: /cooking
 permalink: /:categories/:title
 
 defaults:
