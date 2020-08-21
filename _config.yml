@@ -4,6 +4,8 @@ collections:
   recipes:
     output: true
 
+permalink: /:categories/:title
+
 defaults:
   - scope:
       path: ""
