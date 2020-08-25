@@ -1,6 +1,5 @@
 ---
 ---
-
 # Blackened Fish
 
 This is a quick spice rub that can be used to bake fish.
