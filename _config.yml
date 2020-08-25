@@ -5,7 +5,7 @@ collections:
     output: true
 
 baseurl: /cooking
-permalink: /:categories/:title
+permalink: /:categories/:title/
 
 defaults:
   - scope:
