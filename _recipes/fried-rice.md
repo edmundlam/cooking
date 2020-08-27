@@ -1,8 +1,15 @@
 ---
+prep_time: "1-5 min"
+cook_time: "5-15 min"
+total_time: "5-20 min"
 ---
 # Fried Rice
 
 Fried rice is basically taking leftover rice and cooking it with whatever you have available in your kitchen. 
+
+- Prep time: {{ page.prep_time }}
+- Cooking time: {{ page.cook_time }}
+- Total time: {{ page.total_time }}
 
 ## Ingredients
 

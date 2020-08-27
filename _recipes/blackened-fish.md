@@ -1,8 +1,15 @@
 ---
+prep_time: "3 min"
+cook_time: "12 min"
+total_time: "15 min"
 ---
 # Blackened Fish
 
 This is a quick spice rub that can be used to bake fish.
+
+- Prep time: {{ page.prep_time }}
+- Cooking time: {{ page.cook_time }}
+- Total time: {{ page.total_time }}
 
 ## Ingredients
 - Paprika
