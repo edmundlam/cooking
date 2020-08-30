@@ -7,7 +7,7 @@ total_time: "25-40 min"
 # {{ page.title }}
 
 ## Ingredients
-- 2 cups rice + water
+- 2 cups rice + enough water for cooking
 - 3 tsp coconut oil
 - 2 tsp garlic powder
 - 1 tsp salt
