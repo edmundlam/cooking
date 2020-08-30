@@ -1,3 +1,0 @@
----
----
-# Chicken Curry
