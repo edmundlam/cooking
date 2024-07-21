@@ -16,7 +16,7 @@ Commands that I use:
 
 ```
 # In bash profile
-alias jwatch='bundle exec jeckyll serve --watch --baseurl ""'
+alias jwatch='bundle exec jekyll serve --watch --baseurl ""'
 
 # In terminal:
 jwatch
